@@ -10,4 +10,9 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+
+    <string name="connection_error_title">Connection error</string>
+    <string name="connection_error_message">Unable to fetch podcasts puppies.\nCheck your internet connection and try again.</string>
+    <string name="retry_label">Retry</string>
+    <string name="dog_d">dogs.db</string>
 </resources>
